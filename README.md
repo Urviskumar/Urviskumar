@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Urviskumar
 - 👀 I’m interested in Mobile Robots
-- 🌱 I’m currently learning Robotics and IoT
-- 💞️ I’m looking to collaborate on research projects relatd to Robotics Manipulation and Dynamics system of Rigid body.
+- 🌱 Always looking for new connections
+- 💞️ I’m looking to collaborate on research projects related to Computer Vision and Mobile Robots.
 - 📫 urviskumar.bharti@gmail.com
 
 <!---
