@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Urviskumar
+- 👋 Hi, I’m @Urvishkumar
 - 👀 I’m interested in Mobile Robots
 - 🌱 Always looking for new connections
 - 💞️ I’m looking to collaborate on research projects related to Computer Vision and Mobile Robots.
