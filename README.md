@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Urvishkumar
+- Will Graduate by June 2024
 - 👀 I’m interested in Mobile Robots and Computer Vision
 - 🌱 Always looking for new connections
 - 💞️ I’m looking to collaborate on research projects in industries and also want to be a part of startups. 
