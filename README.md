@@ -16,7 +16,7 @@
 
 [Cloud-Coverage-Estimation-of-Outdoor-Scenes](https://github.com/Urviskumar/Cloud-Coverage-Estimation-of-Outdoor-Scenes.git)
 
-[Image Manipulation using Stable Diffusion](https://github.com/Urviskumar/https://github.com/Urviskumar/image-manipulation-stable-diffusion.git)
+[Image Manipulation using Stable Diffusion](https://github.com/Urviskumar/image-manipulation-stable-diffusion.git)
 
 [Super-Resolution-Convolutional-Neural-Network-SRCNN](https://github.com/Urviskumar/Super-Resolution-Convolutional-Neural-Network-SRCNN-.git)
 
