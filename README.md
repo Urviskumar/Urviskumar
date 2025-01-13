@@ -7,3 +7,23 @@
 🌐 Personal Website: urviskumar.github.io <br>
 📫 Contact Me: urviskumar.bharti@gmail.com <br>
                ub48@drexel.edu
+
+
+# My Main Projects:
+[2D_Maze_Optimal_Path_Generation](https://github.com/Urviskumar/2D_Maze_Optimal_Path_Generation.git)
+
+[Autonomous_Navigation_into_Mock_Smart_City](https://github.com/Urviskumar/Autonomous_Navigation_into_Mock_Smart_City.git)
+
+[Cloud-Coverage-Estimation-of-Outdoor-Scenes](https://github.com/Urviskumar/Cloud-Coverage-Estimation-of-Outdoor-Scenes.git)
+
+[Image Manipulation using Stable Diffusion](https://github.com/Urviskumar/https://github.com/Urviskumar/image-manipulation-stable-diffusion.git)
+
+[Super-Resolution-Convolutional-Neural-Network-SRCNN](https://github.com/Urviskumar/Super-Resolution-Convolutional-Neural-Network-SRCNN-.git)
+
+[Advancing-Autonomous-Driving-Perception](https://github.com/Urviskumar/Advancing-Autonomous-Driving-Perception.git)
+  
+
+
+
+ 
+
