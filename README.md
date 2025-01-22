@@ -14,6 +14,10 @@
 
 [Autonomous_Navigation_into_Mock_Smart_City](https://github.com/Urviskumar/Autonomous_Navigation_into_Mock_Smart_City.git)
 
+[Graph based Search Algorithm Implementation - A* and Dijkstras](https://urviskumar.github.io/Urvishkumar_Bharti.github.io/project5.html)
+
+[Deep Industrial Anomaly Detection](https://urviskumar.github.io/Urvishkumar_Bharti.github.io/anomaly_detection.html)
+
 [Cloud-Coverage-Estimation-of-Outdoor-Scenes](https://github.com/Urviskumar/Cloud-Coverage-Estimation-of-Outdoor-Scenes.git)
 
 [Image Manipulation using Stable Diffusion](https://github.com/Urviskumar/image-manipulation-stable-diffusion.git)
