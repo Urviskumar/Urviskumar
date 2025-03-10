@@ -4,7 +4,7 @@
 🧑‍🔬 Aspiring Researcher: Actively seeking research opportunities to explore cutting-edge innovation in robotics, vision, and AI. <br>
 💡 Collaboration Goals: Excited to contribute to impactful research projects and collaborate with academia, startups, and open-source communities. <br>
 🌍 Open to Opportunities: Available for research roles in the USA/India. <br>
-🌐 Personal Website: urviskumar.github.io <br>
+🌐 Personal Website: [urviskumar.github.io][https://urviskumar.github.io/Urvishkumar_Bharti.github.io/] <br>
 📫 Contact Me: urviskumar.bharti@gmail.com <br>
                ub48@drexel.edu
 
